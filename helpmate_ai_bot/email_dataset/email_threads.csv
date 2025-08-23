@@ -1,0 +1,51 @@
+thread_id,subject,from,to,timestamp,body
+1001,Project Falcon Delay,alice@example.com,bob@example.com,2025-07-01 09:15:00,"Hi Bob,
+We are experiencing delays in Project Falcon due to supplier issues. Expect 2-week delay.
+Regards,
+Alice"
+1001,Project Falcon Delay,bob@example.com,alice@example.com,2025-07-01 10:00:00,"Thanks for the update. Can you send revised timeline?
+Thanks,
+Bob"
+1001,Project Falcon Delay,alice@example.com,bob@example.com,2025-07-01 11:30:00,"Sure. Revised delivery expected by July 14th.
+-Alice"
+1002,Q3 Marketing Budget,carol@example.com,team@example.com,2025-06-15 14:30:00,"Finance approved 10% increase in marketing for Q3.
+Please adjust campaigns accordingly.
+Carol"
+1002,Q3 Marketing Budget,dave@example.com,team@example.com,2025-06-15 15:00:00,"Thanks Carol. Please proceed accordingly.
+-Dave"
+1003,Office Move Update,john@example.com,staff@example.com,2025-07-20 08:00:00,"We’re moving to the 5th floor starting next Monday. Packing materials will be provided.
+-John"
+1003,Office Move Update,sara@example.com,john@example.com,2025-07-20 08:45:00,"Will the network be available during the move?
+-Sara"
+1003,Office Move Update,john@example.com,sara@example.com,2025-07-20 09:15:00,"Yes, minimal downtime expected.
+-John"
+1004,New Intern Joining,recruiter@example.com,hr@example.com,2025-08-01 12:00:00,"Kavita Sharma will join as intern in product team starting 5th Aug.
+Recruiter"
+1004,New Intern Joining,hr@example.com,recruiter@example.com,2025-08-01 12:15:00,"Noted. Welcome email and onboarding to be scheduled.
+-HR"
+1005,Client Feedback - Zenith Corp,sales@example.com,product@example.com,2025-07-25 16:00:00,"Zenith reported confusion around analytics dashboard. Suggested improvements:
+- Add tooltips
+- Better export options"
+1005,Client Feedback - Zenith Corp,product@example.com,sales@example.com,2025-07-25 16:30:00,"Thanks! Adding these to the next sprint planning.
+-Product Team"
+1006,Security Training Reminder,it@example.com,staff@example.com,2025-08-01 09:00:00,"Reminder: Security awareness training is mandatory. Complete by Aug 10th.
+-IT Team"
+1006,Security Training Reminder,sam@example.com,it@example.com,2025-08-01 09:15:00,"Got it, will complete by deadline.
+-Sam"
+1007,Leave Approval - Tanya,manager@example.com,hr@example.com,2025-07-10 11:00:00,"Tanya's leave from July 18 to 22 is approved.
+-Manager"
+1007,Leave Approval - Tanya,hr@example.com,manager@example.com,2025-07-10 11:15:00,"Thanks. We'll update the system.
+-HR"
+1008,Procurement Request Approval,admin@example.com,finance@example.com,2025-07-28 10:00:00,"Requesting approval for purchasing new laptops for dev team.
+Cost: ₹3,00,000.
+-Admin"
+1008,Procurement Request Approval,finance@example.com,admin@example.com,2025-07-28 10:30:00,"Approved. Proceed with procurement.
+-Finance"
+1009,Remote Work Extension Request,tina@example.com,manager@example.com,2025-07-12 09:30:00,"Requesting remote work extension till July 31 due to personal reasons.
+-Tina"
+1009,Remote Work Extension Request,manager@example.com,tina@example.com,2025-07-12 10:00:00,"Extension granted. Keep in touch with team lead daily.
+-Manager"
+1010,Expense Report Clarification,employee@example.com,accounts@example.com,2025-08-01 14:00:00,"Please clarify why July travel expenses were partially reimbursed.
+-Employee"
+1010,Expense Report Clarification,accounts@example.com,employee@example.com,2025-08-01 14:30:00,"Some receipts were missing. Please upload them to get full reimbursement.
+-Accounts"

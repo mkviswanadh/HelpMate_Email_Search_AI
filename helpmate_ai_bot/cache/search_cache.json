@@ -1,0 +1,98 @@
+{
+  "c49c8eefe3940387028ff99a0cf74e0d": [
+    {
+      "chunk": "Hi Bob, We are experiencing delays in Project Falcon due to supplier issues. Expect 2-week delay. Regards, Alice",
+      "metadata": {
+        "from": "alice@example.com",
+        "subject": "Project Falcon Delay",
+        "thread_id": 1001,
+        "timestamp": "2025-07-01 09:15:00"
+      },
+      "score": -2.395442008972168
+    },
+    {
+      "chunk": "Requesting remote work extension till July 31 due to personal reasons. -Tina",
+      "metadata": {
+        "from": "tina@example.com",
+        "subject": "Remote Work Extension Request",
+        "thread_id": 1009,
+        "timestamp": "2025-07-12 09:30:00"
+      },
+      "score": -11.210649490356445
+    },
+    {
+      "chunk": "Thanks for the update. Can you send revised timeline? Thanks, Bob",
+      "metadata": {
+        "from": "bob@example.com",
+        "subject": "Project Falcon Delay",
+        "thread_id": 1001,
+        "timestamp": "2025-07-01 10:00:00"
+      },
+      "score": -11.284472465515137
+    }
+  ],
+  "e2c0d3db45608818e1c66766669fd51f": [
+    {
+      "chunk": "Finance approved 10% increase in marketing for Q3. Please adjust campaigns accordingly. Carol",
+      "metadata": {
+        "from": "carol@example.com",
+        "subject": "Q3 Marketing Budget",
+        "thread_id": 1002,
+        "timestamp": "2025-06-15 14:30:00"
+      },
+      "score": -10.395429611206055
+    },
+    {
+      "chunk": "Thanks for the update. Can you send revised timeline? Thanks, Bob",
+      "metadata": {
+        "from": "bob@example.com",
+        "subject": "Project Falcon Delay",
+        "thread_id": 1001,
+        "timestamp": "2025-07-01 10:00:00"
+      },
+      "score": -10.957795143127441
+    },
+    {
+      "chunk": "Some receipts were missing. Please upload them to get full reimbursement. -Accounts",
+      "metadata": {
+        "from": "accounts@example.com",
+        "subject": "Expense Report Clarification",
+        "thread_id": 1010,
+        "timestamp": "2025-08-01 14:30:00"
+      },
+      "score": -11.307171821594238
+    }
+  ],
+  "c57d1022c2e9fab0ec458bfd53b83840": [
+    {
+      "chunk": "Zenith reported confusion around analytics dashboard. Suggested improvements: - Add tooltips - Better export options",
+      "metadata": {
+        "from": "sales@example.com",
+        "subject": "Client Feedback - Zenith Corp",
+        "thread_id": 1005,
+        "timestamp": "2025-07-25 16:00:00"
+      },
+      "score": -11.203630447387695
+    },
+    {
+      "chunk": "Thanks for the update. Can you send revised timeline? Thanks, Bob",
+      "metadata": {
+        "from": "bob@example.com",
+        "subject": "Project Falcon Delay",
+        "thread_id": 1001,
+        "timestamp": "2025-07-01 10:00:00"
+      },
+      "score": -11.275674819946289
+    },
+    {
+      "chunk": "Reminder: Security awareness training is mandatory. Complete by Aug 10th. -IT Team",
+      "metadata": {
+        "from": "it@example.com",
+        "subject": "Security Training Reminder",
+        "thread_id": 1006,
+        "timestamp": "2025-08-01 09:00:00"
+      },
+      "score": -11.372821807861328
+    }
+  ]
+}

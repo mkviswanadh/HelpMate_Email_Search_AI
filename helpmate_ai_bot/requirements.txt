@@ -1,0 +1,20 @@
+pandas==2.2.2
+numpy==1.26.4
+tqdm==4.66.4
+scikit-learn==1.5.0
+
+# Sentence Transformers and Transformers
+sentence-transformers==2.6.1
+transformers==4.42.1
+
+# ChromaDB (vector database)
+chromadb==0.5.0
+
+hf_xet==1.1.8
+evaluate
+rouge_score-0.1.2
+
+# OpenAI SDK
+openai==1.95.1
+
+streamlit==1.48.1
