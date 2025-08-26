@@ -94,5 +94,155 @@
       },
       "score": -11.372821807861328
     }
+  ],
+  "90c90daafc74bc5967c4784102cde3fb": [
+    {
+      "chunk": "Thanks for the update. Can you send revised timeline? Thanks, Bob",
+      "metadata": {
+        "from": "bob@example.com",
+        "subject": "Project Falcon Delay",
+        "thread_id": 1001,
+        "timestamp": "2025-07-01 10:00:00"
+      },
+      "score": -11.206533432006836
+    },
+    {
+      "chunk": "Hi Bob, We are experiencing delays in Project Falcon due to supplier issues. Expect 2-week delay. Regards, Alice",
+      "metadata": {
+        "from": "alice@example.com",
+        "subject": "Project Falcon Delay",
+        "thread_id": 1001,
+        "timestamp": "2025-07-01 09:15:00"
+      },
+      "score": -11.46212100982666
+    }
+  ],
+  "eb3500ed99faecce6e6cef654a99b4b4": [
+    {
+      "chunk": "Requesting approval for purchasing new laptops for dev team. Cost: \u20b93,00,000. -Admin",
+      "metadata": {
+        "from": "admin@example.com",
+        "subject": "Procurement Request Approval",
+        "thread_id": 1008,
+        "timestamp": "2025-07-28 10:00:00"
+      },
+      "score": 4.579474449157715
+    },
+    {
+      "chunk": "Requesting remote work extension till July 31 due to personal reasons. -Tina",
+      "metadata": {
+        "from": "tina@example.com",
+        "subject": "Remote Work Extension Request",
+        "thread_id": 1009,
+        "timestamp": "2025-07-12 09:30:00"
+      },
+      "score": -11.297399520874023
+    },
+    {
+      "chunk": "Kavita Sharma will join as intern in product team starting 5th Aug. Recruiter",
+      "metadata": {
+        "from": "recruiter@example.com",
+        "subject": "New Intern Joining",
+        "thread_id": 1004,
+        "timestamp": "2025-08-01 12:00:00"
+      },
+      "score": -11.339122772216797
+    }
+  ],
+  "e7137f63acc2d67a8f8c590aa41d71a5": [
+    {
+      "chunk": "Gosh, I guessed right!!!! Kaye Ellis 04/18/2000 01:51 PM To: Sara Shackleton/HOU/ECT@ECT cc: Subject: Re: Credit Group Lunch Jeff Sorenson would like the meeting on May 12 to be from 11:30a to 1p.",
+      "metadata": {
+        "from": "Sara Shackleton",
+        "subject": "Credit Group Lunch",
+        "thread_id": 2,
+        "timestamp": "2000-04-18 08:29:00"
+      },
+      "score": 2.450913429260254
+    },
+    {
+      "chunk": "Suzanne: Here is the complete list of credit folks. Please send an e-mail to each of them concerning the 5th. Please include the description that I have bolded. In our group, you don't need to include Marie or Shari. Thanks. Carol ---------------------- Forwarded by Carol St Clair/HOU/ECT on 04/18/2000 11:52 AM --------------------------- From: John Suttle 04/18/2000 11:47 AM To: Carol St Clair/HOU/ECT@ECT cc: Subject: Re: Credit Group Lunch Carol, Three more have recently joined our group: Ed Sacks Brad Schneider Wendy LeBrocq JS Carol St Clair 04/18/2000 11:43 AM To: John Suttle/HOU/ECT@ECT cc: Subject: Credit Group Lunch John: Sara and I would like to hold another lunch with your group on Friday, May 5th to go through in detail how the ISDA and CSA Masters and Schedules work. Could you please take a look at this list and let me know of any additions or deletions? Thanks. Carol Bill Bradford Debbie Brackett Tanya Rohauer Rod Nelson Russell Diamond Veronica Espinoza Tracy Ngo Brant Reves Kevin Radous Tom Moran Christopher Smith Lesli Campbell Cathy Tudon Nidia Martinez Molly Harris Thanks. Carol",
+      "metadata": {
+        "from": "Carol St Clair",
+        "subject": "Credit Group Lunch",
+        "thread_id": 2,
+        "timestamp": "2000-04-18 04:54:00"
+      },
+      "score": -0.5308662056922913
+    },
+    {
+      "chunk": "Sara and Tana: FYI. Please when you know it provide Suzanne with the headcount for the confirm/settlements program on May 5th and the global contracts program on May 24th and I will take care of the credit program on May 12th. Carol ---------------------- Forwarded by Carol St Clair/HOU/ECT on 04/13/2000 03:22 PM --------------------------- Suzanne Adams 04/13/2000 12:05 PM To: Carol St Clair/HOU/ECT@ECT cc: Subject: Re: Conference Rooms All reserved from 11:30 a.m.-2:00 p.m. May 5: 30C2 May 12: 30C2 May 24: 46C1 June 16: 30C2 Please let me know how many people will be attending each meeting so I can order lunch. Carol St Clair 04/13/2000 11:48 AM To: Suzanne Adams/HOU/ECT@ECT cc: Subject: Conference Rooms Suzanne: Just wanted to confirm before we sent out any invitations that we have the following rooms reserved: Friday, May 5th 11:30-2 30th floor Friday May 12th 11:30-2 30th Floor Wednesday May 24th 11:30-2 Which room did we get? Friday, June 16th 11:30-2 30th Floor Carol",
+      "metadata": {
+        "from": "Carol St Clair",
+        "subject": "Conference Rooms",
+        "thread_id": 212,
+        "timestamp": "2000-04-13 08:25:00"
+      },
+      "score": -0.6551249623298645
+    }
+  ],
+  "17f6f955f42d19b098eb388bba7f8eb4": [
+    {
+      "chunk": "Doug, Sounds fun but I can't commit now. Please do not wait on me, go ahead and fill up the foursome. thanks,mike From: Doug Leach 09/29/2000 10:01 AM To: Mike McConnell/HOU/ECT@ECT cc: Randal T Maffett/HOU/ECT@ECT, Tom Briggs/NA/Enron@Enron Subject: golf Mike, Can you join us on Wednesday morning, November 15 to play golf at Canyon Springs golf course in San Antonio prior to the Enron Management Conference? Canyon Springs will allow us to book a 10:00am tee time thirty days in advance. Once I have confirmed the tee time I will forward directions to the course. Should be a fun group. Might even need a practice round at Champions prior to the trip. Doug",
+      "metadata": {
+        "from": "Mike McConnell",
+        "subject": "golf",
+        "thread_id": 1884,
+        "timestamp": "2000-10-02 10:47:00"
+      },
+      "score": -8.885098457336426
+    },
+    {
+      "chunk": "Call me if you wanted anything else. ---------------------- Forwarded by Brad Guilmino/HOU/EES on 09/14/2001 10:08 AM --------------------------- From: Ryan O'Rourke/ENRON@enronXgate on 09/14/2001 10:03 AM To: Brad Guilmino/HOU/EES@EES cc: Subject: RE: golf Pinehurst- $35 Clear Creek- $27 Hermann Park- $27 Magnolia Creek (League City)- $45 These are all twilight rates (ie. mid afternoon and on). Magnolia Creek is a lot of fun I think, if you're willing to pay the price and willing to make the drive. It's nice, long, new... it's a European style links course. -----Original Message----- From: Guilmino, Brad Sent: Friday, September 14, 2001 9:55 AM To: O'Rourke, Ryan Subject: golf Ryan, My roomate was asking me what golf courses we play besides Memorial. Can you email a few with price estimates?",
+      "metadata": {
+        "from": "Guilmino, Brad NOTESADDR/CN=36255EEC-43629EB9-862569DE-7C0715",
+        "subject": "RE: golf",
+        "thread_id": 4107,
+        "timestamp": "2001-09-14 08:09:01"
+      },
+      "score": -9.501160621643066
+    },
+    {
+      "chunk": "Will do....have a great game! \"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM To: \"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com> cc: Subject: RE: Sunday Golf at Rav Cindy, Thank you...please alert Stan that I will be there. Regards, Chris -----Original Message----- From: Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com] Sent: Thursday, May 24, 2001 1:20 PM To: DFS International, Inc.; CEGANN@dow.com Subject: Re: Sunday Golf at Rav Importance: High Hello! Stan asked that I advise you of Sunday's (May 27) golf details at Raveneaux Country Club, as follows: Stan Horton Chris Gann Steve Westlund Julie Westlund Tee time is 8:15AM on the Old Course off #1. Don't hesitate to call me if you have any questions or concerns. Thanks, Cindy (Stan's assistant) 713/853-6197 \"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM To: stanley.horton@enron.com cc: cegann@dow.com Subject: Sunday Golf at Rav After negotiations with my better half, I will be ready to play Sunday. My wife Julie is also willing to play on Sunday and we are trying to arrange for a baby sitter. Either way, I will be there. Please let me know the time when it comes available. Thank you. Best regards. Steve Westlund",
+      "metadata": {
+        "from": "Cindy Stark",
+        "subject": "RE: Sunday Golf at Rav",
+        "thread_id": 3272,
+        "timestamp": "2001-05-24 07:53:00"
+      },
+      "score": -9.869382858276367
+    }
+  ],
+  "e4befb79f88560f4a61db79068376ede": [
+    {
+      "chunk": "Would you see if we sent out invoices our if someone at Enron requested that no invoices be sent out. Thanks -----Original Message----- From: Dhont, Margaret Sent: Friday, March 22, 2002 2:04 PM To: Germany, Chris Subject: RE: Letter re Unpaid Invoice for Post petition Deliveries Chris We were not paid by either cornerstone Propane or Midamerican for these deliveries. Margaret -----Original Message----- From: Germany, Chris Sent: Thursday, March 14, 2002 6:32 PM To: Dhont, Margaret; Wynne, Rita; Chance, Lee Ann Cc: Olinger, Kimberly S.; Concannon, Ruth Subject: RE: Letter re Unpaid Invoice for Post petition Deliveries I had a letter that needed to be sent out today so I left early. This is what I need and you can tell me what the process is. ENA purchased gas from TDC (sitara #1143983) in the month of December 2001 on NGPL. It appears that we scheduled the gas on an NGPL IT agreement to the NGPL LA Pool. At the pool, it appears that we made some sales Deal 1184526 Cornerstone Propane, L.P. Deal 1184587 MidAmerican Energy Company Deals 258085 and 315861 to Enron MW, L.L.C. - desk to desk deals. Did Cornersone pay ENA for the gas? Did MidAmerican pay ENA for the gas? How do these desk to desk deals work? Did any of this goes go to cash out or did ENA go short and cash out? Not a rush but I would like to have an answer by next Friday if possible. Thanks -----Original Message----- From: McMichael Jr., Ed Sent: Monday, March 11, 2002 8:26 PM To: Germany, Chris Cc: Mann, Kay; Dicarlo, Louis; Dhont, Margaret; Polsky, Phil; Boyt, Eric; Parks, Joe; 'Melanie Gray (E-mail)' Subject: RE: Letter re Unpaid Invoice for Post petition Deliveries Please work with Energy Operations to determine where it went and if we sole it or if is still on the pipe. The priority should be based on your judgment. Ed -----Original Message----- From: Germany, Chris Sent: Monday, March 11, 2002 4:38 PM To: McMichael Jr., Ed Cc: Mann, Kay; McMichael Jr., Ed; Dicarlo, Louis; Dhont, Margaret; Polsky, Phil; Boyt, Eric; Parks, Joe; Melanie Gray (E-mail) Subject: RE: Letter re Unpaid Invoice for Post petition Deliveries Ed, this gas was nominated on an IT contract into a pool on NGPL. I am unable to identify the gas after that so its difficult for me to tell if the estate benefited. Let me know what you want to do at this point. Thanks -----Original Message----- From: melanie.gray@weil.com@ENRON Sent: Wednesday, March 06, 2002 3:30 PM To: Germany, Chris Cc: Mann, Kay; McMichael Jr., Ed; Dicarlo, Louis; Dhont, Margaret; Polsky, Phil; Boyt, Eric; Parks, Joe Subject: RE: Letter re Unpaid Invoice for Post petition Deliveries Assuming all of what is below is all correct, it appears that TDC is entitled to payment. The question with administrative priority is whether the the estate benefitted. If we took the gas, I assume that we did. THanks. \"Germany, Chris\" <Chris.Germany@ENRON.com> on 03/06/2002 02:38:33 PM cc: \"Dicarlo, Louis\" <Louis.Dicarlo@ENRON.com>, \"Dhont, Margaret\" <Margaret.Dhont@ENRON.com>, \"Polsky, Phil\" <Philip.Polsky@ENRON.com>, \"Boyt, Eric\" <Eric.Boyt@ENRON.com>, \"Parks, Joe\"",
+      "metadata": {
+        "from": "Germany, Chris CGERMAN",
+        "subject": "RE: Letter re Unpaid Invoice for Post petition Deliveries",
+        "thread_id": 2133,
+        "timestamp": "2002-03-29 12:49:39"
+      },
+      "score": -4.396068096160889
+    },
+    {
+      "chunk": "Attached are the final documents which includes 1. Agency and Management Agreement - Clean and Redlined copy which shows the changes per my discussion with Jay Goleb at Baker & Botts 2. Gas Confirm for June 1 thru June 4, 2001 3. Gas Confirm for June 5 thru June 30, 2001 4. Gas Conform for July 1 thru October 31, 2001 5. GTC which applies to all three confirms 6. Agency Notice Letter - Mexicana to send to its Permian suppliers for notice of Enron's agency. Please print out and execute documents 1 thru 5 and fax to Barry Tycholiz. We will follow up with duplicate originals for execution. Thanks for all your cooperation.",
+      "metadata": {
+        "from": "Gerald Nemec",
+        "subject": "Final Docs.",
+        "thread_id": 1048,
+        "timestamp": "2001-06-01 19:22:00"
+      },
+      "score": -7.872271537780762
+    },
+    {
+      "chunk": "Attached are the final documents which includes 1. Agency and Management Agreement - Clean and Redlined copy which shows the changes per my discussion with Jay Goleb at Baker & Botts 2. Gas Confirm for June 1 thru June 4, 2001 3. Gas Confirm for June 5 thru June 30, 2001 4. Gas Conform for July 1 thru October 31, 2001 5. GTC which applies to all three confirms 6. Agency Notice Letter - Mexicana to send to its Permian suppliers for notice of Enron's agency. Please print out and execute documents 1 thru 5 and fax to Barry Tycholiz. We will follow up with duplicate originals for execution. Thanks for all your cooperation.",
+      "metadata": {
+        "from": "Gerald Nemec",
+        "subject": "Final Docs.",
+        "thread_id": 1048,
+        "timestamp": "2001-06-01 09:22:00"
+      },
+      "score": -7.872271537780762
+    }
   ]
 }
