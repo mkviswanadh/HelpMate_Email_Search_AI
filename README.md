@@ -1,5 +1,5 @@
-# HelpMate_Email_Search_AI
-HelpMate Email Search AI Chatbot
+# Email_Search_AI
+Email Search AI Chatbot
 
 # Email Search AI
 
@@ -11,7 +11,7 @@ In enterprise environments, email threads often contain critical discussions, de
 
 ## Project Overview
 
-**HelpMate_Email Search_AI** is an end-to-end **RAG-based AI assistant** designed for semantic search and summarization of email threads. It uses **Sentence Transformers** for creating dense **vector embeddings** of email content, stores them in a **ChromaDB vector store**, and enables **semantic index search**. Upon receiving a user query, it retrieves the most relevant chunks using **vector similarity**, improves result quality through **cross-encoder-based reranking**, and finally, generates context-aware responses using **OpenAI's LLM (e.g., GPT-3.5-turbo)**.
+**Email Search_AI** is an end-to-end **RAG-based AI assistant** designed for semantic search and summarization of email threads. It uses **Sentence Transformers** for creating dense **vector embeddings** of email content, stores them in a **ChromaDB vector store**, and enables **semantic index search**. Upon receiving a user query, it retrieves the most relevant chunks using **vector similarity**, improves result quality through **cross-encoder-based reranking**, and finally, generates context-aware responses using **OpenAI's LLM (e.g., GPT-3.5-turbo)**.
 
 The system employs a **Retrieval-Augmented Generation (RAG)** architecture with **caching** for efficiency and performance.
 
