@@ -10,7 +10,7 @@ from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
 # === CONFIG ===
-DATA_PATH = "email_dataset/email_threads.csv"
+DATA_PATH = "email_dataset/email_thread_details.csv"
 TOP_K = 3
 
 # === LOAD DATA ===
